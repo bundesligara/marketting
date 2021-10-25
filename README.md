@@ -1,0 +1,1 @@
+Click on a file and choose `Download`
